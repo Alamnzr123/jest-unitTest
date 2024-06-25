@@ -1,0 +1,20 @@
+# UNIT TESTING WITH JEST
+
+- buat folder "test-with-jest"
+- npm init -y
+- ubah code di package.json
+{
+  "scripts": {
+    "test": "jest"
+  }
+}
+
+- kemudian buat file utama "index.js"
+- lalu buat folder "test"
+- jalankan app: npm run test
+
+# UNTUK MENJALANKAN COVERAGE / FULL REPORT
+
+- npx jest --init // UNTUK MENJALANKAN COVERAGE
+- Lalu open Folder "coverage"
+- Copy path "index.js" ke Browser
