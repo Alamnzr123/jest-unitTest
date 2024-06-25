@@ -3,7 +3,7 @@ Quickstart how to use jest
 
 ## Getting Started
 
-First, run from Text Editor using Live Server Extension:
+Run on Terminal
 
 ```npm
 
